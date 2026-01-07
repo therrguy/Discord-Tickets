@@ -16,7 +16,7 @@ Open tickets in website for discord server
 
 ```bash
 
-$ git clone https://github.com/Luffy909/Discord-Tickets.git
+$ git clone https://github.com/therrguy/Discord-Tickets.git
 
 ```
 
@@ -123,7 +123,7 @@ $ npm run start
   
 ## Problems, Bugs and Suggestions
 
-in case you saw any Problems, Bugs and Suggestions you can tell me in the [issues](https://github.com/Luffy909/Discord-Tickets) OR [Discord Server](https://discord.gg/rr-dev)
+in case you saw any Problems, Bugs and Suggestions you can tell me in the [issues](https://github.com/therrguy/Discord-Tickets) OR [Discord Server](https://discord.gg/HFZRWUC)
 
 and i will fix and your suggetions and tell you in news channel in [Discord Server](https://discord.gg/rr-dev)
 
