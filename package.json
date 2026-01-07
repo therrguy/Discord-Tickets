@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Luffy909/Discord-Tickets.git"
+    "url": "git+https://github.com/therrguy/Discord-Tickets.git"
   },
-  "author": "_Luffy99#7907 (https://discord.gg/HFZRWUC)",
+  "author": "_Luffy99#0359 (https://discord.gg/HFZRWUC)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Luffy909/Discord-Tickets/issues"
+    "url": "https://github.com/therrguy/Discord-Tickets/issues"
   },
-  "homepage": "https://github.com/Luffy909/Discord-Tickets#readme"
+  "homepage": "https://github.com/therrguy/Discord-Tickets#readme"
 }
